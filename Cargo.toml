@@ -5,7 +5,7 @@ author =  ["elforjani"]
 description = "DataStruct simplifies handling binary data and JSON with a unified interface."
 version = "0.1.0"
 keywords = ["datastruct-rs", "json", "binary", "data-structures", "serialization"]
-categories = ["data-structures", "serialization", "parsing"]
+categories = ["data-structures", "encoding", "parsing"]
 license = "MIT"
 edition = "2021"
 
