@@ -1,7 +1,11 @@
 [package]
 name = "datastruct"
 repository = "https://github.com/elforjani13/datastruct/"
+author =  ["elforjani"]
+description = "DataStruct simplifies handling binary data and JSON with a unified interface."
 version = "0.1.0"
+keywords = ["datastruct", "json", "binary"]
+license = "MIT"
 edition = "2021"
 
 [dependencies]
